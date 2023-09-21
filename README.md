@@ -8,9 +8,10 @@ untuk memahami pendapat dan pengalaman pelanggan yang berbeda terkait dengan pro
 
 ## Ektraksi Fitur ##
 ### Dataset Preprocessing ###
-1. Tokenisasi : proses membagi teks menjadi unit-unit yang lebih kecil, seperti kata-kata atau frasa.
-2. Remove stopword : menghapus kata-kata yang umum dan tidak memiliki makna yang signifika dalam analisi teks
-3. Stemming : proses mengubah kata-kata ke bentuk dasarnya atau kata dasar.
+1. Folding Case : proses mengubah seluruh kata menjadi huruf kecil
+2. Tokenisasi : proses membagi teks menjadi unit-unit yang lebih kecil, seperti kata-kata atau frasa.
+3. Remove stopword : menghapus kata-kata yang umum dan tidak memiliki makna yang signifika dalam analisi teks
+4. Stemming : proses mengubah kata-kata ke bentuk dasarnya atau kata dasar.
 ### TF-IDF Feature Extraction ###
 Teknik yang digunakan dalam pemrosesan bahasa alami dan pengelolaan informasi untuk mengukur pentingnya sebuah kata dalam konteks koleksi dokumen.
 ### Euclidean Distance ###
